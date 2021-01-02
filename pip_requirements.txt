@@ -1,0 +1,7 @@
+# basic packages
+jupyter>=1.0.0
+# numerical python
+numpy>=1.19.4
+scipy>=1.6.0
+matplotlib>=3.3.3
+

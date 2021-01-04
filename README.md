@@ -1,3 +1,8 @@
+# Learning
+ - Numpy
+ - Scipy
+
+ 
 ### Experiments
 All the experimental code that would be written for poc
  - Single Engine Multi Worker scenario
